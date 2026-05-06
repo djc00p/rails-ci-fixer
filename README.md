@@ -1,6 +1,6 @@
 # 🔧 Rails CI Fixer
 
-[![Rails](https://img.shields.io/badge/Rails-v7+-red.svg)](https://rubyonrails.org/) [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue.svg)](https://github.com/features/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![ClawHub Skill](https://img.shields.io/badge/ClawHub-Skill-blue)](https://clawhub.ai/djc00p/rails-ci-fixer) [![Agent Skill](https://img.shields.io/badge/Agent-Skill-blue)](#) [![Rails](https://img.shields.io/badge/Rails-v7+-red.svg)](https://rubyonrails.org/) [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue.svg)](https://github.com/features/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Rails CI Fixer** is an autonomous, tiered-escalation engine designed to identify, debug, and resolve failing Continuous Integration (CI) builds on Ruby on Rails pull requests.
 
